@@ -7,5 +7,4 @@ Members: Francis Dave Torres
 Guiwan, Roldan A.
 
 You can open our website project through this link below:
-
 https://bradley630.github.io/Group7_Project_Finals/index-file.html
